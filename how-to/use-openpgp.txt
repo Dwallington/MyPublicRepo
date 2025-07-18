@@ -1,0 +1,4 @@
+How to use PGP?
+
+PGP, or Pretty Good Privacy, is an encryption method used to secure emails and sensitive files, ensuring that only intended recipients can read the messages.
+
