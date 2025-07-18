@@ -1,2 +1,4 @@
 # MyPublicRepo
-repo to upload my public stuffs
+repo to upload my stuffs
+
+TODO: how to use PGP
