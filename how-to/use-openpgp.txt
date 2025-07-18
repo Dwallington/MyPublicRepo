@@ -2,3 +2,8 @@ How to use OpenPGP?
 
 OpenPGP is a widely used standard for email encryption that allows users to send secure messages and files. It was derived from the original Pretty Good Privacy (PGP) software and is designed to provide end-to-end encryption for various communication methods. It is used to secure emails and sensitive files, ensuring that only intended recipients can read the messages.
 
+1- create key-pairs on kleopatra.
+2- backup the public and private key securely.
+3- publish the public key on https://keys.openpgp.org/
+4- share the public key to others.
+4- assign and encrypt/decrypt messages and files.
